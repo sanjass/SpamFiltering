@@ -1,5 +1,5 @@
 # SpamFiltering
-Naive Bayes and Logistic Regression approach to spam email filtering
+
 Code for Naive Bayes and Logistic Regression aprroach to classifying an email as a spam and non-spam.
 
 Results:
