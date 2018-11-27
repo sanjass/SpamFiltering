@@ -4,4 +4,5 @@ Code for Naive Bayes and Logistic Regression aprroach to classifying an email as
 
 Results:
 Naive Bayes: correctly classified 47 out of 49 spam messages, and 33 out of 51 ham messages
+
 Logistic: correctly classified 45 out of 49 spam messages, and 46 out of 51 ham messages
